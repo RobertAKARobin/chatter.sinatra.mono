@@ -1,4 +1,2 @@
-require 'sinatra/activerecord'
+require './server'
 require 'sinatra/activerecord/rake'
-
-require './models/convo'
